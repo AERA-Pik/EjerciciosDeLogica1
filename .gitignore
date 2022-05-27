@@ -1,3 +1,4 @@
+/bin/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
@@ -31,7 +32,6 @@ target/
 
 # Compiled Files
 *.class
-/bin/
 /bin/
 /bin1/
 java/build/**
